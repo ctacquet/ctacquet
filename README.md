@@ -20,8 +20,8 @@
 ------
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ctacquet&show_icons=true&locale=en&layout=compact" alt="ctacquet" />
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ctacquet&show_icons=true&locale=en" alt="ctacquet" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ctacquet&show_icons=true&locale=en&layout=compact&theme=dark" alt="ctacquet" />
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ctacquet&show_icons=true&locale=en&theme=dark" alt="ctacquet" />
 </div>
 
 ------
