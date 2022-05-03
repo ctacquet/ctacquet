@@ -10,7 +10,7 @@
 <a href="https://discord.gg/RedFive#6621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RedFive#6621" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ctacquet" alt="ctacquet" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ctacquet&theme=onestar&row=1" alt="ctacquet" /></a> </p>
 
 ------
 
@@ -35,5 +35,7 @@
 
 -----
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ctacquet&label=Profile%20views&color=0e75b6&style=flat" alt="ctacquet" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ctacquet&label=Profile%20views&color=0e75b6&style=flat" alt="ctacquet" /> 
+</p>
 
