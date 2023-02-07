@@ -2,7 +2,7 @@
   Hi 👋, I'm Charles Tacquet
 </h1>
 
-<a align="center" href="http://ctacquet.com/">
+<a align="center" href="http://ctacquet.com/" target="_blank">
   <p align="center">Link to my website</p>
   <img width="1484" alt="image" src="https://user-images.githubusercontent.com/22562938/217128787-d4fa2a9b-fb76-4f20-8654-3b20661278b2.png">
 </a>
