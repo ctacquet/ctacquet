@@ -2,15 +2,11 @@
   Hi 👋, I'm Charles Tacquet
 </h1>
 
-<p align="center">
-<a href="https://twitter.com/c_tacquet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c_tacquet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ctacquet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ctacquet" height="30" width="40" /></a>
-<a href="https://fb.com/ctacquet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ctacquet" height="30" width="40" /></a>
-<a href="https://instagram.com/ctacquet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ctacquet" height="30" width="40" /></a>
-<a href="https://discord.gg/RedFive#6621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RedFive#6621" height="30" width="40" /></a>
-</p>
+<a align="center" href="http://ctacquet.com/">
+  <p align="center">Link to my website</p>
+  <img width="1484" alt="image" src="https://user-images.githubusercontent.com/22562938/217128787-d4fa2a9b-fb76-4f20-8654-3b20661278b2.png">
+</a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ctacquet&theme=onestar&row=1" alt="ctacquet" /></a> </p>
 
 ------
 
